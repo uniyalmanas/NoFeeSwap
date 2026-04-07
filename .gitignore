@@ -1,0 +1,26 @@
+# Node dependencies
+node_modules/
+
+# Env files (sensitive)
+.env
+
+# Build outputs
+dist/
+build/
+.cache/
+out/
+
+# Hardhat / Web3
+artifacts/
+cache/
+typechain/
+
+# Logs
+*.log
+
+# OS / Editor
+.DS_Store
+.vscode/
+
+# Optional (keep if needed locally)
+coverage/
